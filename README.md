@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Gilmar Milandri
 
-**`Desenvolvedor FullStack`**
+**`Developer FullStack`**
 
-Me chamo Gilmar Milandri, tenho 20 anos e sou natural do Mato Grosso Do Sul. Atualmente, estou cursando Técnologia da informação na UFMS e Engenharia de software na Uniderp.
+My name is Gilmar Milandri, I'm 20 years old and I'm from Mato Grosso Do Sul. I'm currently studying Information Technology at UFMS and Software Engineering at Uniderp.
 
 ---
 
