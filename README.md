@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gilmar Milandri
 
-**`Developer FullStack`**
+**`FullStack Developer`**
 
 My name is Gilmar Milandri, I'm 20 years old and I'm from Mato Grosso Do Sul. I'm currently studying Information Technology at UFMS and Software Engineering at Uniderp.
 
