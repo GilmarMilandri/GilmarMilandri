@@ -90,7 +90,6 @@ Me chamo Gilmar Milandri, tenho 20 anos e sou natural do Mato Grosso Do Sul. Atu
 />
 
 <br/>
-<br/>
 
 ### Tests
 Em andamento
@@ -122,7 +121,6 @@ Em andamento
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
-<br/>
 <br/>
 
 ### DataBases
@@ -159,7 +157,6 @@ Em andamento
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
-<br/>
 <br/>
 
 ### Ide's
